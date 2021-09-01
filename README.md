@@ -24,6 +24,9 @@
 <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sachin Mittal streak" src="https://camo.githubusercontent.com/7f9d3fd7356ad11a34af7d60cae610dd8c94aaf4a726fcf1a7b9bacc9dab4f46/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4b617368697368476f79616c393035267468656d653d7261646963616c26686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3036304130434430" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=SachinMittal1766&amp;theme=radical&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width:100%;"> -->
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SachinMittal1766&theme=dark&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&align=centre)](https://git.io/streak-stats)
+
+
 <h2> My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinmittal1766&show_icons=true&locale=en&layout=compact" alt="sachinmittal1766" /></p>
 <br>
