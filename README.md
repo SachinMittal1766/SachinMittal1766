@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQHgdbDWDKsYfQ/profile-displaybackgroundimage-shrink_350_1400/0/1628257092045?e=1635379200&v=beta&t=4mxQSEppLzl24K0pZwYElJsj8ltubNS5VB3jRQqSUy0)](https://github.com/SachinMittal1766)
+
 
 <h1 align="center">Hi 👋, I'm Sachin Mittal</h1>
 <h3 align="center">A passionate person who loves to learn new things</h3>
